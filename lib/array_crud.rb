@@ -1,13 +1,13 @@
 def create_an_empty_array
-  array = []
+  create_an_empty_array = []
 end
 
 def create_an_array
-  array = ["Juventus", "Napoli", "Roma", "Lazio"]
+  create_an_array = ["Juventus", "Napoli", "Roma", "Lazio"]
 end
 
 def add_element_to_end_of_array(array, element)
-  array.push ("Fiorentina")
+  add_element_to_end_of_array.push ("Fiorentina")
 end
 
 def add_element_to_start_of_array(array, element)
